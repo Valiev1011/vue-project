@@ -160,10 +160,31 @@
   .section .process-body .process-text .process-text-p1 {
     font-size: 32px;
   }
+  .section .process-foot {
+    height: 327px;
+  }
 }
 @media (max-width: 519px) {
   .section .process-body .process-text .process-text-p1 {
     font-size: 28px;
+  }
+  .section .process-foot {
+    height: 327px;
+  }
+  .section .process-foot .foot-items button {
+    width: 150px;
+    height: 45px;
+  }
+  .section .process-foot .foot-items {
+    gap: 30px;
+  }
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .section .process-body .process-text {
+    width: 90%;
   }
 }
 </style>

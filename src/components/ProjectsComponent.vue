@@ -186,7 +186,7 @@
     margin: 0 auto;
   }
   .project {
-    padding: 69px 40px;
+    padding: 69px 20px;
   }
   .project .project-items hr {
     margin-bottom: 25px;

@@ -160,7 +160,7 @@
 }
 @media (max-width: 519px) {
   .team .team-items .team-main .team-card1 {
-    width: 80%;
+    width: 90%;
     margin-top: 15px;
   }
 }
